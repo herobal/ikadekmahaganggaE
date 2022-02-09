@@ -1,3 +1,7 @@
+# Hi , I'm Maha
+
+ I am a student who is still learning programming and how to apply it to everyday life
+
 <p align="center">
   <a href="https://github.com/ikadekmahaganggga">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikadekmahagangga&layout=compact&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true"/>
