@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/EthicalChaos">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikadekmahagangga&show_icons=true&theme=highcontrast&hide_title=true&hide_rank=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikadekmahagangga&hide=perl,html,css&exclude_repo=&langs_count=6&layout=compact&theme=highcontrast"/>
+  <a href="https://github.com/ikadekmahaganggga">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikadekmahagangga&layout=compact&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikadekmahagangga&layout=compact&langs_count=8&hide=MATLAB"/>
   </a>
-</p>
+  <br/>
